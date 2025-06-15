@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/80GZsU571iy58ydVbn/giphy.gif" width="90"/><img src="https://media.giphy.com/media/80GZsU571iy58ydVbn/giphy.gif" width="90"/><img src="https://media.giphy.com/media/80GZsU571iy58ydVbn/giphy.gif" width="90"/><img src="https://media.giphy.com/media/80GZsU571iy58ydVbn/giphy.gif" width="90"/><img src="https://media.giphy.com/media/80GZsU571iy58ydVbn/giphy.gif" width="90"/><img src="https://media.giphy.com/media/80GZsU571iy58ydVbn/giphy.gif" width="90"/><img src="https://media.giphy.com/media/80GZsU571iy58ydVbn/giphy.gif" width="90"/><img src="https://media.giphy.com/media/80GZsU571iy58ydVbn/giphy.gif" width="90"/><img src="https://media.giphy.com/media/80GZsU571iy58ydVbn/giphy.gif" width="90"/>
 # <img src="https://media.giphy.com/media/sAv1QowlCWId5aZv1g/giphy.gif" width="100"/> Bienvenid@ al GitHub de JHON JAIRO VEJAR  <img src="https://media.giphy.com/media/oxQD2CFOuXXtKAm7UH/giphy.gif" width="100"/>
  Ing. Electrónico.   
- T.O Gestion Administrativa.   
+ Tecnólogo Gestion Administrativa.   
  Téc. Asistencia Administrativa
 
 ## Tecnologias 💻
